@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mim
 
-Me chamo Ernesto e tenho 22 anos. Atualmente estou no 6° semestre em Ciência da Computação.
+Me chamo Ernesto e tenho 27 anos. Atualmente estou no 6° semestre em Ciência da Computação.
 
 ## 💻 Tecnologias
 
