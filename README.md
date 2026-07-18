@@ -29,6 +29,12 @@ Atualmente estou estudando **Python**, **Django**, **Java** e **Docker**.
     </a>
 </p>
 
+## 🖼️ SELF-PORTRAIT
+
+<p align="center">
+    <img src="https://i.postimg.cc/3NMyPsDs/self-portrait-3.png"/>
+</p>
+
 ## 📫 Contatos
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ernestoaf_)
