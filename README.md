@@ -31,9 +31,9 @@ Atualmente estou estudando **Python**, **Django**, **Java** e **Docker**.
 
 ## 🖼️ SELF-PORTRAIT
 
-<p align="center">
-    <img src="https://i.postimg.cc/3NMyPsDs/self-portrait-3.png"/>
-</p>
+<div align="center">
+  <img src="self portrait 3.png" alt="AI, AI, AI!!!" width="400">
+</div>
 
 ## 📫 Contatos
 
